@@ -15,6 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+’Twas brillig, and the slithy toves   
+      Did gyre and gimble in the wabe:   
+All mimsy were the borogoves,   
+      And the mome raths outgrabe.   
+
+“Beware the Jabberwock, my son!   
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -24,3 +30,63 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+In the realm of skies, where nature weaves,   
+A symphony of elements, the weather conceives.   
+From dawn's embrace to twilight's kiss,   
+Let us embark on a poetic bliss.   
+
+Upon azure canvas, the sun's rays dance,   
+Caressing the earth in a golden trance.   
+Radiant beams bathe all below,   
+With warmth and light, their eternal glow.   
+
+Whispers of zephyrs through meadows glide,   
+Tenderly caressing the wildflowers beside.   
+They carry scents of jasmine and rose,   
+As nature's perfume in harmony flows.   
+
+Clouds assemble, a celestial parade,   
+Painting the heavens in hues arrayed.   
+Cumulus castles and cottony dreams,   
+Unveiling secrets through ethereal seams.   
+
+Raindrops descend, a gentle cascade,   
+Nourishing the soil where life is made.   
+They pitter-patter, a rhythmic embrace,   
+Cleansing the world with nature's grace.   
+
+Thunder rumbles, a tempest's voice,   
+Echoing power, the earth's rejoice.   
+Lightning illuminates the darkened sky,   
+A fleeting glimpse, before shadows fly.   
+
+Winter arrives, with its icy breath,   
+Blanketing landscapes in frosty death.   
+Snowflakes pirouette, in whimsical flight,   
+Transforming the mundane into pure delight.   
+
+Spring awakens, a rebirth untold,   
+As flora and fauna unfold their hold.   
+Blossoms bloom, petals unfurl,   
+A vibrant tapestry, nature's twirl.   
+
+Summer shimmers, with the sun's embrace,   
+Inviting laughter in every embrace.   
+Beaches beckon, waves crash and play,  
+Under a cerulean sky, life finds its way.   
+
+Autumn arrives, with a fiery display,   
+Leaves ablaze, in a riotous ballet.   
+Rustling whispers, a bittersweet farewell,   
+As nature prepares for the stories to tell.   
+
+The weather, a tapestry ever-changing,   
+In its dance, the world rearranging.   
+From tranquil mornings to stormy strife,   
+It breathes life into our earthly life.   
+
+So let us celebrate, in awe and delight,   
+The weather's symphony, a wondrous sight.   
+For within its embrace, we find our place,   
+Connected forever, in nature's embrace.   
+
